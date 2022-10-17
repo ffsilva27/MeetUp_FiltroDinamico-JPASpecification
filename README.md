@@ -1,6 +1,6 @@
 # :man_technologist: MeetUp - Filtros Dinâmicos Utilizando Kotlin + JPA Specification
 
-O projeto fez parte de minha meta individual onde tive que apresentar, através de um projeto, a funcionalidade do JPA Specificantion em
+O projeto fez parte de minha meta individual onde tive que apresentar conceitualmente e funcionalmente o JPA Specificantion em
 uma aplicação Kotlin.
 
 ___________________________________________________________________________________________________________________________________________________________________
